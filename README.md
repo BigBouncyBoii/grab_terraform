@@ -14,7 +14,7 @@ There are 3 stages to a Terraform workflow
 
 ### Homework assignment - 
 - Used Terraform to provision 2 EC2 instances on different availability zones. EC2 is a virtual machine on aws 
-- Created an EC2 instance in the London region and Singapore region
+- Created an EC2 instance in the London region (closest region to me) and Singapore region (closest region to Malaysia) 
 - Created a provider in the eu-west-2 region and created a resource (the VM) with a public AMI associated with that provider
 - Created a provider in the ap-southeast-1 region and created a resource (the VM) with a public AMI associated with that provider
 
