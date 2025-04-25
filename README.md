@@ -13,9 +13,8 @@ There are 3 stages to a Terraform workflow
 3. Apply: Terraform performs the proposed operations (from the plan)
 
 ### Homework assignment - 
-Used Terraform to provision 2 EC2 instances on different availability zones 
-EC2 is a virtual machine on aws 
-Created an EC2 instance in the London region and Singapore region 
+- Used Terraform to provision 2 EC2 instances on different availability zones. EC2 is a virtual machine on aws 
+- Created an EC2 instance in the London region and Singapore region 
 
 Used the commands 
 
@@ -23,6 +22,7 @@ terraform init
 terraform plan 
 terraform apply 
 
+Results: 
 ![alt text](image.png)
 ![alt text](image-1.png)
 
